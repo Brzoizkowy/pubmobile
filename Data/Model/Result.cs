@@ -11,8 +11,8 @@ namespace Data.Model
     public class Result<T>
     {
         public T Data { get; set; }
-        public string Message { get; set; } = null;
-        public bool Success { get; set; } = true;
+        public string Message { get; set; }
+        public bool Success { get; set; }
         private static Logger logger;
 
         public Result(T data)

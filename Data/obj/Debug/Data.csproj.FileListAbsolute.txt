@@ -12,3 +12,10 @@ C:\Users\Damian\Documents\Projects\WebService\Data\bin\Debug\NLog.xml
 C:\Users\Damian\Documents\Projects\WebService\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 C:\Users\Damian\Documents\Projects\WebService\Data\obj\Debug\Data.dll
 C:\Users\Damian\Documents\Projects\WebService\Data\obj\Debug\Data.pdb
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Data\bin\Debug\Data.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Data\bin\Debug\Data.pdb
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Data\bin\Debug\NLog.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Data\bin\Debug\NLog.xml
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Data\obj\Debug\Data.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Data\obj\Debug\Data.pdb

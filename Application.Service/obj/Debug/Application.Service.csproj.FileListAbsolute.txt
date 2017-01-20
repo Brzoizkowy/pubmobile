@@ -11,3 +11,16 @@ C:\Users\Damian\Documents\Projects\WebService\Application.Service\bin\Debug\Data
 C:\Users\Damian\Documents\Projects\WebService\Application.Service\bin\Debug\Repository.pdb
 C:\Users\Damian\Documents\Projects\WebService\Application.Service\bin\Debug\NLog.xml
 C:\Users\Damian\Documents\Projects\WebService\Application.Service\bin\Debug\Dapper.xml
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\Application.Service.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\Application.Service.pdb
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\Data.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\Repository.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\NLog.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\Dapper.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\Data.pdb
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\Repository.pdb
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\NLog.xml
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\bin\Debug\Dapper.xml
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\obj\Debug\Application.Service.csprojResolveAssemblyReference.cache
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\obj\Debug\Application.Service.dll
+C:\Users\brzozikowy\Documents\GitHub\pubmobile\Application.Service\obj\Debug\Application.Service.pdb
